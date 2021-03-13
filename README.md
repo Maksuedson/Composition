@@ -21,8 +21,11 @@ Quantity: **1**
 Product name: **Mouse**
 Product price: **40.00**
 Quantity: **2**
-<br>
-<br>b
+<p>
+<p>
+<p>
+<p>
+<p>
 ORDER SUMMARY:
 
 Order moment: 20/04/2018 11:25:09
@@ -34,7 +37,12 @@ Client: Alex Green (15/03/1985) - alex@gmail.com &nbsp;
 
 
 
-
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
 Order items:
 
 TV, $1000.00, Quantity: 1, Subtotal: $1000.00
