@@ -21,9 +21,8 @@ Quantity: **1**
 Product name: **Mouse**
 Product price: **40.00**
 Quantity: **2**
-
- 
-
+<br>
+<br>b
 ORDER SUMMARY:
 
 Order moment: 20/04/2018 11:25:09
