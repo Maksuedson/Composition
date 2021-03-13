@@ -21,36 +21,24 @@ Quantity: **1**
 Product name: **Mouse**
 Product price: **40.00**
 Quantity: **2**
-<p>
-<p>
-<p>
-<p>
-<p>
-ORDER SUMMARY:
+
+###### ORDER SUMMARY:
 
 Order moment: 20/04/2018 11:25:09
 
 Order status: PROCESSING
 
-Client: Alex Green (15/03/1985) - alex@gmail.com &nbsp;
+Client: Alex Green (15/03/1985) - alex@gmail.com
 
 
-
-
-<p>
-<p>
-<p>
-<p>
-<p>
-<p>
-Order items:
+###### Order items:
 
 TV, $1000.00, Quantity: 1, Subtotal: $1000.00
 
 Mouse, $40.00, Quantity: 2, Subtotal: $80.00
 
-Total price: $1080.00 &nbsp;
-&nbsp;
+Total price: $1080.00
+
 
 ## Diagrama de classe
 <h1>
