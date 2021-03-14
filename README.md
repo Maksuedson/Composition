@@ -8,7 +8,7 @@ Email: **alex@gmail.com**
 
 Birth date (DD/MM/YYYY): **15/03/1985**
 
-
+---------------------------------------------------------
 
 **Enter order data:**
 Status: **PROCESSING**
@@ -23,7 +23,7 @@ Product price: **1000.00**
 
 Quantity: **1**
 
-
+---------------------------------------------------------
 
 
 **Enter #2 item data:**
@@ -45,7 +45,7 @@ Order status: PROCESSING
 
 Client: Alex Green (15/03/1985) - alex@gmail.com
 
-
+---------------------------------------------------------
 
 ###### Order items:
 
@@ -55,6 +55,7 @@ Mouse, $40.00, Quantity: 2, Subtotal: $80.00
 
 Total price: $1080.00
 
+---------------------------------------------------------
 
 
 ## Diagrama de classe
